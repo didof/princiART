@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "La Mia Primavera",
+        "filename": "la_mia_primavera",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "1",
+        "mainColor": "green"
+    },
+    {
+        "id": 2,
+        "title": "Libertà",
+        "filename": "liberta",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "1",
+        "mainColor": "white"
+    },
+    {
+        "id": 3,
+        "title": "Noah",
+        "filename": "noah",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "1",
+        "mainColor": "orange"
+    },
+    {
+        "id": 4,
+        "title": "Natura Morta",
+        "filename": "natura_morta",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "3/2",
+        "mainColor": "green"
+    },
+    {
+        "id": 5,
+        "title": "Inverno",
+        "filename": "inverno",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "1",
+        "mainColor": "orange"
+    },
+    {
+        "id": 6,
+        "title": "Ritratto 1",
+        "filename": "ritratto_studio",
+        "ext": "png",
+        "dimensions": "20x40",
+        "ratio": "1",
+        "mainColor": "orange"
+    }
+]

@@ -1,0 +1,30 @@
+{
+    "ita": {
+        "/": {
+            "label": "Home"
+        },
+        "/contacts": {
+            "label": "Contatti"
+        },
+        "/pictures": {
+            "label": "Quadri"
+        },
+        "/animations": {
+            "label": "Animazioni"
+        }
+    },
+    "en-US": {
+        "/": {
+            "label": "Home"
+        },
+        "/contacts": {
+            "label": "Contacts"
+        },
+        "/pictures": {
+            "label": "Pictures"
+        },
+        "/animations": {
+            "label": "Animations"
+        }
+    }
+}

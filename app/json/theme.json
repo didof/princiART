@@ -1,0 +1,54 @@
+[
+    {
+        "backgroundColor": "white",
+        "header": {
+            "backgroundColor": "grey",
+            "buttons": {
+                "backgroundColor": "white"
+            },
+            "switches": {
+                "backgroundColor": "white",
+                "handleColor": "pink"
+            },
+            "navbar": {
+                "tabs": {
+                    "backgroundColor": "yellow",
+                    "activeBackgroundColor": "gold"
+                }
+            }
+        },
+        "card": {
+            "backgroundColor": "grey",
+            "border": {
+                "color": "black",
+                "width": 3
+            }
+        }
+    },
+    {
+        "backgroundColor": "black",
+        "header": {
+            "backgroundColor": "violet",
+            "buttons": {
+                "backgroundColor": "purple"
+            },
+            "switches": {
+                "backgroundColor": "black",
+                "handleColor": "orange"
+            },
+            "navbar": {
+                "tabs": {
+                    "backgroundColor": "orange",
+                    "activeBackgroundColor": "red"
+                }
+            }
+        },
+        "card": {
+            "backgroundColor": "black",
+            "border": {
+                "color": "black",
+                "width": 3
+            }
+        }
+    }
+]
